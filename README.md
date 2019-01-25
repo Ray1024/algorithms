@@ -9,11 +9,11 @@
 ## 1.FizzBuzz问题
 描述：写一个程序打印1到100这些数字。但是遇到数字为3的倍数的时候，打印“Fizz”替代数字，5的倍数用“Buzz”代替，既是3的倍数又是5的倍数打印“FizzBuzz”。</br>
 评价：这是一个入门级的笔试题，用来考察应试者的基本编码能力和逻辑能力，如果这道题写了5分钟以上或者答不出来的话，那就需要考虑一下自己是否是一个合格的coder了。</br>
-算法实现：FizzBuzz.c[https://github.com/Ray1024/algorithms/blob/master/FizzBuzz.c]
+算法实现：[FizzBuzz.c](https://github.com/Ray1024/algorithms/blob/master/FizzBuzz.c)
 
 ## 2.查找算法——线性查找
 描述：在一个数组中查找指定数值。</br>
 评价：顺序查找也称为线形查找，属于无序查找算法。遍历整个数组和指定数值比较，若相等则表示查找成功；若便利完成还没有找到相等的，表示查找失败。</br>
 复杂度：O(n)</br>
-算法实现：SearchSequence.c[https://github.com/Ray1024/algorithms/blob/master/SearchSequence.c]
+算法实现：[SearchSequence.c](https://github.com/Ray1024/algorithms/blob/master/SearchSequence.c)
 
